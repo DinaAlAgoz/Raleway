@@ -1,0 +1,1551 @@
+body {
+  font-family: "Raleway", sans-serif;
+  color: #636363;
+  font-size: 15px;
+}
+
+.boody {
+
+  overflow: hidden;
+}
+
+.home {
+
+  overflow: hidden;
+}
+
+
+.home .navbar-brand img {
+  width: 150px;
+  cursor: pointer;
+}
+
+.home .navv {
+  padding: 10px;
+}
+
+.navbar {
+  border-bottom: 1px solid #fffbfb12;
+}
+
+.home .navbar-expand-lg .navbar-nav .nav-link {
+  color: #fff;
+  padding: 10px;
+  text-transform: uppercase;
+  font-family: raleway, sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 2px;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.home .nav-item .act {
+  color: #2a80b9 !important;
+}
+
+.home .navbar-expand-lg .navbar-nav .nav-link:hover {
+  color: #2a80b9 !important;
+}
+
+.home .carousel-control-prev {
+  left: 0 !important;
+}
+
+.home .controls {
+
+  padding-bottom: 0px;
+}
+
+.home .controls .left {
+  width: 50px;
+  background-color: black;
+  height: 105px;
+  position: relative;
+  right: 74px;
+  border-radius: 3px;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.home .controls .left:hover {
+  background-color: #40bff5;
+}
+
+.home .controls .fas {
+  font-weight: 900;
+  position: relative;
+  top: 45px;
+  font-size: 20px;
+  right: 3px;
+}
+
+.home .carousel-control-next {
+  right: 0 !important;
+}
+
+.home .controls .right {
+  left: 72px;
+  width: 50px;
+  background-color: black;
+  height: 105px;
+  position: relative;
+  border-radius: 3px;
+  transition: background 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.home .controls .right:hover {
+  background-color: #40bff5;
+}
+
+.home .controls .fas {
+  font-weight: 900;
+  position: relative;
+  top: 45px;
+  font-size: 20px;
+}
+
+.home .can {
+  position: absolute;
+  bottom: 250px;
+  padding: 0rem 2rem;
+}
+
+@media (min-width:320px) and (max-width:900px) {
+
+  .home .can {
+
+    bottom: 30% !important;
+    padding: 0rem 1rem !important;
+    font-size: 10px !important;
+    
+  }
+}
+
+
+@media (min-width:300px) and (max-width:650px) {
+
+  .home .can  {
+
+    bottom: -20% !important;
+    font-size: 10px !important;
+    padding: 0rem 0rem !important;
+
+    
+  }
+}
+
+
+.home .can h5 {
+  color: #fff;
+  font-size: 58px;
+  font-weight: 200;
+  line-height: 66px;
+  margin: 0;
+  text-transform: capitalize;
+  margin-bottom: 1rem;
+}
+
+@media (min-width:300px) and (max-width:980px) {
+
+  .home .can h5 {
+
+    font-size: 20px !important;
+    line-height: 30px !important;
+    
+  }
+}
+
+
+
+
+
+.home .can p {
+  color: #fff;
+  padding: 0rem 10rem;
+  padding-bottom: 35px;
+  padding-top: 15px;
+  font-weight: 400;
+}
+
+
+@media (min-width:300px) and (max-width:980px) {
+
+  .home .can p {
+
+   padding: 0rem !important;
+
+    
+  }
+}
+
+@media (min-width:300px) and (max-width:790px) {
+
+  .home .can p {
+
+    opacity: 0 !important;
+
+    
+  }
+}
+
+
+
+
+
+
+.home .can button {
+  background: #2a80b9 none repeat scroll 0 0;
+  border: 1px solid #2a80b9;
+  color: #fff;
+  padding: 10px 30px;
+  border-radius: 3px;
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+}
+
+.home .can button:hover {
+  background-color: #fff;
+  color: black;
+  border: none;
+}
+
+.home .slids {
+  overflow: hidden;
+  position: relative;
+}
+
+.home .slids .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #6777b552;
+  width: 100%;
+}
+
+.home .carousel-inner {
+  position: relative;
+}
+
+.about {
+  margin-bottom: 40px;
+}
+.about .header {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+
+
+.header h2 {
+  font-size: 44px;
+  font-weight: 300;
+  padding: 4rem 1rem 1rem;
+  font-family: "Raleway", sans-serif;
+  color: black;
+}
+
+.header p {
+  font-family: "Raleway", sans-serif;
+  color: #636363a8;
+  font-size: 15px;
+  letter-spacing: 1px;
+  padding: 0rem 8rem;
+}
+
+@media (min-width:300px) and (max-width:947px)  {
+
+  .header p {
+
+  
+     padding: 0rem 0rem !important;
+     
+     
+     
+  }
+
+  
+}
+
+
+@media (min-width:300px) and (max-width:947px)  {
+
+  .header h2 {
+
+  
+     font-size: 30px !important;
+     
+     
+     
+  }
+
+  
+}
+
+.about .box {
+  border: 1px solid #eee;
+  margin-bottom: 35px;
+}
+
+.about i {
+  text-align: center;
+  background-color: #2a80b9;
+  position: relative;
+  left: 45%;
+  font-size: 1.8rem;
+  padding: 0.5rem;
+  color: #ffffff;
+}
+
+.about .box h4 {
+  text-align: center;
+  padding: 1rem 0.5rem 0.5rem;
+  font-weight: 500;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+  font-size: 1.2rem;
+  color: black;
+}
+
+.about .box p {
+  font-family: "Raleway", sans-serif;
+  color: #636363;
+  font-size: 15px;
+  letter-spacing: 1.2px;
+  padding: 0rem 0.5rem;
+  text-align: center;
+  padding-bottom: 0.5rem;
+}
+
+.counters {
+  background: #f7f7f7;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.counters .counter {
+  border-right: 1px solid #80808052;
+  margin-bottom: 35px;
+}
+
+.counter h4 {
+  color: #232323;
+  font-size: 50px;
+  margin-bottom: 10px;
+  font-weight: 300;
+}
+
+.counter p {
+  color: #232323;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+.team {
+  overflow: hidden;
+  position: relative;
+}
+
+.team .header {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+.team h2 {
+  font-size: 44px;
+  font-weight: 300;
+  padding: 4rem 1rem 1rem;
+  font-family: "Raleway", sans-serif;
+  color: black;
+}
+.team p {
+  font-family: "Raleway", sans-serif;
+  color: #636363a8;
+  font-size: 15px;
+  letter-spacing: 1px;
+  background: #fff;
+  padding: 0rem 8rem;
+}
+
+.team .member {
+  position: relative;
+  overflow: hidden;
+}
+
+.team .member img {
+  transition: transform 0.5s ease-in-out;
+  transform: scale(1.1 , 1.1);
+}
+
+.team .member:hover img {
+  transform: scale(1, 1);
+  overflow: hidden;
+}
+.team .box {
+  padding: 0px !important;
+}
+
+.team .member .overlay {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transition: opacity 0.3s ease-in-out;
+  opacity: 0;
+  cursor: pointer;
+  background-color: #000000db;
+  text-align: center;
+  color: #fff;
+}
+
+.team .member .overlay:hover {
+  opacity: 1;
+}
+
+.team .member .overlay:hover .header {
+  bottom: 0px;
+}
+
+.team .member .overlay .header {
+  position: absolute;
+  bottom: -60px;
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+  left: 10%;
+}
+.team .overlay .header h4 {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+.team .overlay .header h3 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+.team .member .overlay:hover .media {
+  bottom: 0px;
+}
+
+.team .media {
+  position: absolute;
+  text-align: center;
+  padding: 10px;
+  left: 20%;
+  bottom: -60px;
+  transition: all 0.3s ease-in-out;
+}
+
+.team .media ul {
+  list-style: none;
+  position: relative;
+}
+
+.media ul li {
+  display: inline-block;
+  cursor: pointer;
+  padding: 0px 5px;
+  text-align: center;
+  position: relative;
+}
+
+.process {
+  background-image: url("../img/process-bg.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  padding: 8rem 5rem;
+  position: relative;
+  overflow: hidden;
+}
+
+@media (max-width:768px) {
+
+  .process  {
+
+  
+    padding: 0rem 2rem !important;
+    left: 0rem !important;
+     
+  }
+
+  
+}
+
+@media (min-width:500px) {
+
+  .process {
+
+    left: 0rem !important;
+    padding: 2rem !important;
+  }
+}
+
+.process .overlay {
+  background-color: #fbfbfdba;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.process .controls .prev {
+  width: 62px;
+  height: 38px;
+  background-color: #2a80b9;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.49);
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.carousel-control-prev {
+  left: -250px;
+  transition: all 0.5s ease-in-out;
+}
+
+.process:hover .carousel-control-prev {
+  left: 0;
+}
+
+.carousel-control-next {
+  right: -250px;
+  transition: all 0.5s ease-in-out;
+}
+
+.process:hover .carousel-control-next {
+  right: 0;
+}
+
+.process .contain {
+  padding: 3rem 0rem;
+
+}
+
+.process .contant {
+  text-align: center;
+  position: relative;
+  top: 27%;
+}
+
+.process .contain h4 {
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  margin-bottom: 40px;
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+.process .contain p {
+  color: black;
+  font-weight: 300;
+  line-height: 1.9;
+  letter-spacing: 1px;
+  text-align: center;
+  padding: 0rem 6rem;
+
+}
+
+ @media (max-width:768px) {
+
+  .process .contain p  {
+
+  
+     padding: 0rem !important;
+     font-size: 10px !important;
+  }
+
+  
+}
+
+.process .skills {
+  padding: 0rem 10rem;
+  text-align: center;
+  position: relative;
+  top: 27%;
+}
+
+@media (min-width:310px) and (max-width:947px)  {
+
+  .process .skills {
+
+  
+    padding: 0rem 2rem !important;
+    left: 0rem !important;
+     
+     
+  }
+
+  
+}
+
+.process .skills h3 {
+  padding-bottom: 25px;
+}
+
+.process .skills .box {
+  padding-bottom: 35px;
+}
+
+.process .progress {
+  height: 1.2rem;
+  margin-bottom: 25px;
+}
+
+.process .progress .progress-bar {
+  background-color: #2a80b9;
+}
+
+.process .progress .progress-bar span {
+  position: absolute;
+  left: 25px;
+}
+
+.works {
+  margin-bottom: 70px;
+  overflow: hidden;
+}
+
+.works .header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.works h2 {
+  font-size: 44px;
+  font-weight: 300;
+  padding: 4rem 1rem 1rem;
+  font-family: "Raleway", sans-serif;
+  color: black;
+}
+.works p {
+  font-family: "Raleway", sans-serif;
+  color: #636363a8;
+  font-size: 15px;
+  letter-spacing: 1px;
+  padding: 0rem 8rem;
+}
+
+.works .till {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+@media (min-width:300px) and (max-width:947px)  {
+
+  .works .till{
+
+  
+   padding: 0px 15px !important;
+   font-size: 10px !important
+     
+     
+  }
+
+  
+}
+
+.works .till p {
+  padding: 15px;
+  transition: color 0.3s ease-in-out;
+  cursor: pointer;
+  color: #938d8d;
+  font-size: 12px;
+}
+
+.works .till .active {
+  color: black;
+}
+
+.works .till p:hover {
+  color: black;
+}
+
+.works .space {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+  overflow: hidden;
+}
+
+.works .overlay {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: opacity 0.3s ease-in-out;
+  opacity: 0;
+  cursor: pointer;
+  background-color: #f2f5f5c9;
+  text-align: center;
+  color: #fff;
+  overflow: hidden;
+}
+
+.works .overlay:hover {
+  opacity: 1;
+}
+
+.works img {
+  transition: transform 0.35s ease-in-out;
+  position: relative;
+}
+
+.works .over {
+  overflow: hidden;
+}
+
+
+
+@media (min-width:300px) and (max-width:947px)  {
+
+  .works .over{
+
+  
+  margin-bottom: 15px !important;
+     
+     
+     
+  }
+
+  
+}
+
+.works .over:hover img {
+  transform: scale(1.15, 1.15);
+}
+
+.works .overlay .cap {
+  position: relative;
+  transition: all 0.25s ease-in-out;
+  bottom: -300px;
+}
+
+@media (min-width:300px) and (max-width:947px)  {
+
+  .works .overlay .cap{
+
+  
+  bottom: 0px !important;
+  top: 50% !important;
+     
+     
+     
+  }
+
+  
+}
+
+
+
+
+.works .overlay:hover .cap {
+  bottom: -120px;
+}
+
+.works .overlay .cap h4 {
+  color: #2a80b9;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.works .overlay .cap p {
+  color: black;
+}
+
+.works .row {
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+
+.clients .back {
+  background-image: url("../img/parallax-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 100%;
+  background-attachment: fixed;
+}
+
+.clients {
+  overflow: hidden;
+}
+
+.clients .slider {
+  position: relative;
+  bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.clients .slider .carousel-indicators {
+  position: relative;
+  top: 280px;
+}
+
+.clients .slider .carousel-indicators li {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  background-color: #2a80b9;
+}
+
+.clients .slider .clent h4 {
+  font-weight: 300;
+  letter-spacing: 0px;
+  color: #292929;
+  margin: 0px;
+}
+
+.clients .slider .clent span {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.clients .clent {
+  background-color: #faf4f0c7;
+  border-radius: 10px;
+  position: relative;
+  padding: 1.8rem 2.2rem;
+}
+
+@media (min-width:320px) and (max-width:980px) {
+
+  .clients .clent {
+
+    padding: 1.8rem 4rem !important;
+    right: 15px !important;
+    
+  }
+}
+
+@media (min-width:300px) and (max-width:500px) {
+
+  .clients .clent {
+
+    padding: 1.8rem 4rem !important;
+    right: 35px !important;
+    
+  }
+}
+
+.clients .clent i {
+  color: #2a80b9;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.clients .slid-bottom {
+  position: relative;
+  top: 10%;
+  background-color: #2a80b9;
+  padding: 4rem 0rem;
+  overflow: hidden;
+}
+@media (max-width:947px)  {
+
+  .clients .slid-bottom img{
+
+  
+  width: 80% !important
+     
+     
+  }
+
+  
+}
+@media (max-width:500px)  {
+
+  .clients .slid-bottom img{
+
+   position: relative;
+   left: 20px !important;
+   padding: 0.5rem 0rem !important;
+     
+     
+  }
+
+  
+}
+.clients .carousel-inner {
+
+  position: relative;
+  left: 20px;
+}
+
+.clients img {
+
+  padding: 0px 7px ;
+  margin-bottom: 15px;
+}
+
+
+
+.clients .slid-bottom .speed {
+  transition: transform 0.7s ease-in-out, -webkit-transform 0.5s ease-in-out !important;
+}
+
+
+
+.pricing {
+  overflow: hidden;
+  background-color: #f7f7f7;
+}
+
+.pricing .header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.pricing h2 {
+  font-size: 44px;
+  font-weight: 300;
+  padding: 4rem 1rem 1rem;
+  font-family: "Raleway", sans-serif;
+  color: black;
+}
+.pricing p {
+  font-family: "Raleway", sans-serif;
+  color: #636363a3;
+  font-size: 15px;
+  letter-spacing: 1px;
+  padding: 0rem 10rem;
+  background-color: none !important;
+}
+
+.pricing .contnt {
+  background-color: #fff;
+  padding: 2rem 1rem 3rem;
+
+  transition: all 0.3s ease-in-out;
+  margin-bottom: 35px;
+}
+
+.pricing .contnt:hover {
+  box-shadow: 0 5px 19px 0 rgba(0, 0, 0, 0.2);
+  transform: translate(0, -10px);
+}
+
+.pricing .contnt .min-box {
+  background: #fff none repeat scroll 0 0;
+  box-shadow: 0 5px 18px rgba(0, 0, 0, 0.11);
+  margin: 0px auto 15px;
+  padding: 15px;
+  text-align: center;
+  position: relative;
+ 
+}
+
+.pricing .contnt .min-box p {
+  padding: 0px;
+  border-bottom: none !important;
+  font-size: 12px;
+}
+
+.pricing .contnt .min-box h4 {
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.pricing .contnt p {
+  border-bottom: 1px solid rgba(42, 42, 42, 0.03);
+  margin: 0;
+  padding: 10px 20px;
+  text-align: center;
+  font-weight: 400;
+  color: #000000a3 !important;
+}
+
+.pricing .contnt .btn {
+  padding: 10px 30px;
+  text-align: center;
+  position: relative;
+  border: 1px solid #938d8d40;
+  left: 20%;
+  top: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+@media (min-width:320px) and (max-width:500px) {
+
+  .pricing .contnt .btn ,
+  .pricing .contnt-bg .btn {
+
+    position: relative;
+    left: 30% !important;
+  }
+}
+
+.pricing .contnt .btn:hover {
+  color: #fff;
+  background-color: #2a80b9;
+  border: 2px solid #2a80b9;
+}
+
+.pricing .contnt-bg {
+  background-color: #2a80b9;
+  padding: 2rem 1rem 3rem;
+  margin-bottom: 200px;
+  transition: all 0.3s ease-in-out;
+}
+
+.pricing .contnt-bg:hover {
+  box-shadow: 0 5px 19px 0 rgba(0, 0, 0, 0.2);
+  transform: translate(0, -10px);
+}
+
+.pricing .contnt-bg p {
+  border-bottom: 1px solid rgba(42, 42, 42, 0.03);
+  margin: 0;
+  padding: 10px 20px;
+  text-align: center;
+  font-weight: 400;
+  color: #fff !important;
+}
+
+.pricing .contnt-bg .btn {
+  padding: 10px 30px;
+  text-align: center;
+  position: relative;
+  border: 2px solid #fff;
+  left: 20%;
+  top: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.pricing .contnt-bg .btn:hover {
+  color: #636363;
+  background-color: #fff;
+  border: 2px solid #ffffff;
+}
+
+.pricing .contnt-bg .min-box {
+  background: #2a80b9 none repeat scroll 0 0;
+  box-shadow: 0 5px 18px rgba(0, 0, 0, 0.11);
+  margin: 0px auto 15px;
+  padding: 15px;
+  text-align: center;
+  color: #fff;
+}
+
+.pricing .contnt-bg .min-box p {
+  padding: 0px;
+  border-bottom: none !important;
+  font-size: 12px;
+  color: #fff !important;
+}
+
+.pricing .contnt-bg .min-box h4 {
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #fff !important;
+  font-size: 1rem;
+}
+
+.touch .header h4 {
+  font-size: 44px;
+  font-weight: 300;
+  padding: 1rem 1rem 1rem;
+  font-family: "Raleway", sans-serif;
+  color: black;
+}
+
+.touch .header p {
+  font-family: "Raleway", sans-serif;
+  color: #0000009e;
+  font-size: 15px;
+  letter-spacing: 1px;
+  padding: 0rem 8rem;
+  margin-bottom: 4rem;
+}
+
+.touch .puts {
+  position: relative;
+  top: 20px;
+  margin-bottom: 35px;
+}
+
+.touch .puts input {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 2.5rem;
+  border-color: #0202020d;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}
+
+.touch .puts input::placeholder {
+  color: #02020257;
+}
+
+.touch .puts textarea {
+  width: 100%;
+  padding: 45px;
+  margin-bottom: 2.5rem;
+  border: 2px solid #0202020d;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}
+
+.touch .puts .btn button {
+  right: 100%;
+  position: relative;
+  padding: 12px 25px;
+  background: no-repeat;
+  border: 2px solid #0202022b;
+  border-radius: 20px;
+  color: black;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+@media (min-width:320px) and (max-width:500px) {
+
+  .touch .puts .btn button {
+
+    position: relative;
+    left: 12% !important;
+  }
+}
+
+.touch .puts .btn button:hover {
+  background-color: #2a80b9;
+  color: #fff;
+}
+
+.touch .loca {
+  margin-bottom: 10px;
+}
+
+
+
+@media (min-width:320px) and (max-width:997px) {
+
+  .touch .loca {
+
+    position: relative;
+    right:  14% !important;
+    padding: 0px 25px;
+  }
+}
+
+
+
+.touch .loca i {
+  background-color: #2a80b9;
+  position: relative;
+  right: 30%;
+  padding: 20px;
+  border-radius: 50%;
+  top: 20px;
+  color: #fff;
+  font-size: 20px;
+}
+
+.touch .loca .adress {
+  position: relative;
+  left: 40px;
+  bottom: 35px;
+}
+
+.touch .loca .adress h4 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  overflow: hidden;
+  position: relative;
+  text-transform: uppercase;
+  right: 60px;
+}
+
+@media (min-width:320px) and (max-width:750px) {
+
+  .touch .loca  .adress  h4 {
+
+    font-size: 17px !important;
+    left: -16px !important;
+  }
+}
+
+@media (min-width:320px) and (max-width:750px) {
+
+  .touch .loca  span {
+
+    font-size: 8px !important;
+    left: 12px !important;
+  }
+}
+
+@media (min-width:320px) and (max-width:750px) {
+
+  .touch .loca  .adress2  h4 {
+
+    font-size: 17px !important;
+    left: 10px !important;
+  }
+}
+
+@media (min-width:320px) and (max-width:750px) {
+
+  .touch .loca .adress2  span {
+
+    font-size: 10px !important;
+    left: 24% !important;
+  }
+}
+
+
+@media (min-width:320px) and (max-width:750px) {
+
+  .touch .loca  .adress3  h4 {
+
+    font-size: 16px !important;
+    left: 52px !important;
+  }
+}
+
+@media (min-width:320px) and (max-width:750px) {
+
+  .touch .loca .adress3 span {
+
+    font-size: 10px !important;
+    left: 27% !important;
+  }
+}
+
+
+@media (min-width:320px) and (max-width:750px) {
+
+  .touch .loca  .adress4  h4 {
+
+    font-size: 16px !important;
+    left: 52px !important;
+  }
+}
+
+@media (min-width:320px) and (max-width:750px) {
+
+  .touch .loca .adress4 span {
+
+    font-size: 10px !important;
+    left: 17% !important;
+  }
+}
+
+
+
+
+
+
+.touch .loca .adress span {
+  font-size: 12px;
+  letter-spacing: 1px;
+  position: relative;
+  left: 12px;
+  font-family: "Raleway", sans-serif;
+  color: #636363;
+}
+
+.touch .loca .adress2 {
+  position: relative;
+  bottom: 33px;
+}
+
+.touch .loca .adress2 h4 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  overflow: hidden;
+  position: relative;
+  text-transform: uppercase;
+  right: 30px;
+}
+
+.touch .loca .adress2 span {
+  font-size: 13px;
+  letter-spacing: 1px;
+  position: relative;
+  left: 23px;
+  font-family: "Raleway", sans-serif;
+  color: #636363;
+}
+
+.touch .loca .adress3,
+.adress4 {
+  position: relative;
+  bottom: 33px;
+}
+
+.touch .loca .adress3 h4 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  overflow: hidden;
+  position: relative;
+  text-transform: uppercase;
+  left: 12px;
+}
+
+.touch .loca .adress3 span {
+  font-size: 13px;
+  letter-spacing: 1px;
+  position: relative;
+  left: 55px;
+  font-family: "Raleway", sans-serif;
+  color: #636363;
+}
+
+.touch .loca .adress4 h4 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  overflow: hidden;
+  position: relative;
+  text-transform: uppercase;
+  left: 12px;
+}
+
+.touch .loca .adress4 span {
+  font-size: 13px;
+  letter-spacing: 1px;
+  position: relative;
+  left: 5px;
+  font-family: "Raleway", sans-serif;
+  color: #636363;
+}
+.map {
+  position: relative;
+}
+
+.map .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #40424285;
+  width: 100%;
+}
+
+.map .box {
+  left: 36%;
+  position: absolute;
+  z-index: 2;
+  top: 20px;
+  background-color: #fff;
+  padding: 20px 43px;
+  border-radius: 6px;
+}
+
+@media (min-width:320px) and (max-width:900px) {
+
+  .map .box {
+
+    position: absolute;
+    left: 18% !important;
+  }
+}
+
+.map .box img {
+  width: 20%;
+  position: relative;
+  right: 15px;
+  padding-bottom: 20px;
+}
+
+.map .box p {
+  color: black;
+  font-weight: 400;
+  position: relative;
+  right: 12px;
+}
+
+.map .box span {
+  position: relative;
+  right: 12px;
+  color: black;
+  font-weight: 300;
+}
+
+.map .box button {
+  color: #2a80b9;
+  left: 65px;
+  position: relative;
+  padding: 4px 20px;
+  border: 1px solid #8080805e;
+  border-radius: 5px;
+}
+
+.subs {
+  background-color: #2a80b9;
+  padding: 6rem;
+}
+
+.subs .sub h4 {
+  color: #fff;
+  font-size: 36px;
+  font-weight: 400;
+  margin-bottom: 30px;
+  margin-top: 0;
+  text-transform: capitalize;
+}
+
+.subs .sub input {
+  background: #fff none repeat scroll 0 0;
+  border: 2px solid #eee;
+  border-radius: 100px;
+  box-shadow: none;
+  color: #333;
+  height: 50px;
+  margin-bottom: 30px;
+  width: 70%;
+}
+
+@media (min-width:320px) and (max-width:750px) {
+
+  .subs .sub input {
+
+    width: 120% !important;
+  }
+}
+
+.subs .sub button {
+  padding: 10px 25px;
+  border-radius: 50px;
+  background-color: #2a80b9;
+  border: 2px solid #fff;
+  color: #fff;
+  transition: all 0.4s ease-in-out;
+}
+.subs .sub button:hover {
+  background-color: beige;
+  color: black;
+  border: none;
+}
+
+.fotter {
+
+  padding: 1px;
+}
+
+@media (min-width:320px) and (max-width:750px) {
+ 
+  .icons li {
+
+
+    left: 0px !important;
+  }
+}
+
+@media (min-width:320px) and (max-width:750px) {
+ 
+  .fotter span {
+
+    left: 15% !important;
+  }
+}
+
+@media (min-width:320px) and (max-width:720px) {
+
+  .sub h4 {
+
+    font-size: 18px !important;
+  }
+}
+
+
+.fotter span {
+  top: 20px;
+  position: relative;
+  left: 35%;
+  font-size: 19px;
+  margin-bottom: 40px;
+}
+
+.fotter .icons {
+  overflow: hidden;
+  padding: 45px 25px 10px;
+}
+
+.fotter .icons ul {
+  list-style: none;
+}
+
+.fotter .icons li {
+  padding: 10px 14px;
+  display: inline-block;
+  border: 1px solid #8080801f;
+  color: #000000c2;
+  border-radius: 50%;
+  position: relative;
+  left: 31%;
+  margin-left: 7px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.fotter .icons .fb:hover {
+  background-color: #5d82d1;
+  color: #fff;
+}
+
+.fotter .icons .ins:hover {
+  background-color: #c435b1;
+  color: #fff;
+}
+
+.fotter .icons .twit:hover {
+  background-color: #40bff5;
+  color: #fff;
+}
+
+.fotter .icons .mail:hover {
+  background-color: #eb5e4c;
+  color: #fff;
+}
+
+.fotter .icons .lin:hover {
+  background-color: #238cc8;
+  color: #fff;
+}
+
+.fotter .icons .you:hover {
+  background-color: #cc181e;
+  color: #fff;
+}
+
+
+#btnUp {
+
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 9999;
+  display: none;
+}
+
